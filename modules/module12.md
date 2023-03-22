@@ -16,7 +16,7 @@ In this lab you'll learn how to make use a managed private endpoints. You'll lea
 
 ## :dart: Objectives
 
-- Connect to on premise data source using a self-hosted integration runtime.
+- Scan a storage account via a private endpoint using an Azure Managed Integration Runtime (IR) within a Microsoft Purview Managed Virtual Network.
 
 ## Table of Contents
 
@@ -159,6 +159,6 @@ If everything goes well you’ll notice new metadata will be added to Purview. T
 
 In this module, you learned how to install managed private endpoints. If you'd like continue with this module to complete further tasks, please feel free to complete the tutorial links below:
 
-- [Use a Managed VNet with your Microsoft Purview account](https://docs.microsoft.com/azure/purview/catalog-managed-vnetn)
+- [Use a Managed VNet with your Microsoft Purview account](https://learn.microsoft.com/en-us/azure/purview/catalog-managed-vnet)
 
 [Continue >](../modules/module13.md)
